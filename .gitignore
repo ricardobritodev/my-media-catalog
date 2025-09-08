@@ -3,22 +3,22 @@
 /workspace.xml
 
 
-Arquivos compilados
+# Arquivos compilados
 
 *.class
 
-Arquivos de IDE
+# Arquivos de IDE
 
 .idea/ *.iml .vscode/
 
-Arquivo de favoritos gerado
+# Arquivo de favoritos gerado
 
 favoritos.txt
 
-Configuração sensível
+# Configuração sensível
 
 config.properties
 
-Outros
+# Outros
 
 *.log .DS_Store
