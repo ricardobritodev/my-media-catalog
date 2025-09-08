@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+Arquivos compilados
+
+*.class
+
+Arquivos de IDE
+
+.idea/ *.iml .vscode/
+
+Arquivo de favoritos gerado
+
+favoritos.txt
+
+Configuração sensível
+
+config.properties
+
+Outros
+
+*.log .DS_Store
